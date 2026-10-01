@@ -1,0 +1,29 @@
+Class	Document	Source	Message	Time	Date	No.
+
+[Warning]	Integrated Circuits.SchLib	Compiler	Duplicate pins in component Pin CH340G-11 and Pin CH340G-11	3:27:29 PM	10/1/2026	3
+[Warning]	Integrated Circuits.SchLib	Compiler	Duplicate pins in component Pin CH340G-12 and Pin CH340G-12	3:27:29 PM	10/1/2026	4
+[Warning]	Integrated Circuits.SchLib	Compiler	Duplicate pins in component Pin Opam LM358 SO-8-4 and Pin Opam LM358 SO-8-4	3:27:29 PM	10/1/2026	5
+[Warning]	Integrated Circuits.SchLib	Compiler	Duplicate pins in component Pin Opam LM358 SO-8-8 and Pin Opam LM358 SO-8-8	3:27:29 PM	10/1/2026	6
+[Warning]	Integrated Circuits.SchLib	Compiler	Duplicate pins in component Pin TL082CP-DIP-8-4 and Pin TL082CP-DIP-8-4	3:27:29 PM	10/1/2026	7
+[Warning]	Integrated Circuits.SchLib	Compiler	Duplicate pins in component Pin TL082CP-DIP-8-8 and Pin TL082CP-DIP-8-8	3:27:29 PM	10/1/2026	8
+[Warning]	Module.SchLib	Compiler	Duplicate pins in component Pin Arduino Nano-GND and Pin Arduino Nano-GND	3:27:30 PM	10/1/2026	9
+[Warning]	Module.SchLib	Compiler	Duplicate pins in component Pin Arduino Nano-RST and Pin Arduino Nano-RST	3:27:30 PM	10/1/2026	10
+[Warning]	Module.SchLib	Compiler	Duplicate pins in component Pin LM2596 module-2 and Pin LM2596 module-2	3:27:30 PM	10/1/2026	11
+[Warning]	Module.SchLib	Compiler	Duplicate pins in component Pin NodeMCU V1.0 ESP-12E-3V3 and Pin NodeMCU V1.0 ESP-12E-3V3	3:27:30 PM	10/1/2026	12
+[Warning]	Module.SchLib	Compiler	Duplicate pins in component Pin NodeMCU V1.0 ESP-12E-GND and Pin NodeMCU V1.0 ESP-12E-GND	3:27:30 PM	10/1/2026	13
+[Warning]	Module.SchLib	Compiler	Duplicate pins in component Pin NodeMCU V1.0 ESP-12E-RSV and Pin NodeMCU V1.0 ESP-12E-RSV	3:27:30 PM	10/1/2026	14
+[Warning]	Connector.SchLib	Compiler	CONN 5569 AW 8P: Could not find '5569 8 PIN 4.2mm'	3:27:36 PM	10/1/2026	15
+[Warning]	Connector.SchLib	Compiler	XH2.54 4P RA SMD: Could not find 'XH2.54-4P-RA-SMD'	3:27:38 PM	10/1/2026	16
+[Warning]	Integrated Circuits.SchLib	Compiler	MOC3063M: Could not find 'CASE 646BY'	3:27:41 PM	10/1/2026	17
+[Warning]	Integrated Circuits.SchLib	Compiler	MOC3083M: Could not find 'CASE 646BY'	3:27:41 PM	10/1/2026	18
+[Warning]	Screw.SchLib	Compiler	Screw Vit m3: Could not find 'Screw M3x5 crescent +20%'	3:27:49 PM	10/1/2026	19
+[Error]	Dlib.SchLib	Compiler	ICM20948: Could not find port '1' on model 'QFN-24_L3.0-W3.0-P0.40-BL-EP' for pin '1'	3:27:50 PM	10/1/2026	20
+[Error]	Dlib.SchLib	Compiler	ICM20948: Could not find port '6' on model 'QFN-24_L3.0-W3.0-P0.40-BL-EP' for pin '6'	3:27:50 PM	10/1/2026	21
+[Error]	Dlib.SchLib	Compiler	ICM20948: Could not find port '7' on model 'QFN-24_L3.0-W3.0-P0.40-BL-EP' for pin '7'	3:27:50 PM	10/1/2026	22
+[Error]	Dlib.SchLib	Compiler	ICM20948: Could not find port '12' on model 'QFN-24_L3.0-W3.0-P0.40-BL-EP' for pin '12'	3:27:50 PM	10/1/2026	23
+[Error]	Dlib.SchLib	Compiler	ICM20948: Could not find port '13' on model 'QFN-24_L3.0-W3.0-P0.40-BL-EP' for pin '13'	3:27:50 PM	10/1/2026	24
+[Error]	Dlib.SchLib	Compiler	ICM20948: Could not find port '18' on model 'QFN-24_L3.0-W3.0-P0.40-BL-EP' for pin '18'	3:27:50 PM	10/1/2026	25
+[Error]	Dlib.SchLib	Compiler	ICM20948: Could not find port '19' on model 'QFN-24_L3.0-W3.0-P0.40-BL-EP' for pin '19'	3:27:50 PM	10/1/2026	26
+[Error]	Dlib.SchLib	Compiler	ICM20948: Could not find port '24' on model 'QFN-24_L3.0-W3.0-P0.40-BL-EP' for pin '24'	3:27:50 PM	10/1/2026	27
+[Error]	Dlib.SchLib	Compiler	SLW05A-12: Could not find port '4' on model 'SLW05A-12' for pin '4'	3:27:50 PM	10/1/2026	28
+

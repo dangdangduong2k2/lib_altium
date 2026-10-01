@@ -1,0 +1,13 @@
+History/
+**/History/
+__Previews/
+**/__Previews/
+*.~*
+*.Lck
+*.PrjPcbStructure
+*.PrjPCBStructure
+*.LibPkgStructure
+*.DsnWrk
+*.bak
+
+Project Outputs/*.IntLib

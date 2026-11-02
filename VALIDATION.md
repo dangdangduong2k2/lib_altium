@@ -20,3 +20,13 @@ Chi tiết chính xác trong COMPILE_MESSAGES.txt. Kiểm tra các linh kiện n
 
 Gộp đúng các tài liệu của project RD Integrated_Library.LibPkg hiện có và hai file Dlib được cung cấp. Các thư viện rời khác nằm ngoài project gốc không tự động thêm vào.
 Giữ kèm thư mục 3D của bộ RD. Các liên kết ngoài và model 3D của từng linh kiện chưa được kiểm tra toàn diện trên máy khác.
+
+
+## USB 73725-0110BLF: embedded 3D update — 02/11/2026
+
+- Embedded the manufacturer STEP model in USB_A_UPRIGHT_73725-0110BLF.
+- Verified native Altium 3D display, embedded model bytes, four signal axes,
+  original model dimensions and zero additional placement offset.
+- Kept all 63 other Dlib footprints and all 35 existing embedded models unchanged.
+- Rebuilt IntLib with the same existing 9 errors and 17 warnings; no new diagnostics.
+- See Dlib/73725-0110BLF.md for model source, alignment and drawing revision notes.

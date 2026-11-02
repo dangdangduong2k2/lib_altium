@@ -1,0 +1,24 @@
+{
+  "component": "DRV8825PWPR",
+  "pins": 29,
+  "footprints": [
+    "TI_PWP0028C_DRV8825",
+    "TI_PWP0028V_DRV8825"
+  ],
+  "native_altium_audit": "passed",
+  "pin_names_numbers_and_electrical_types": "passed",
+  "pad_coordinates_dimensions_and_masks": "passed",
+  "existing_component_data_preserved_byte_for_byte": {
+    "old_footprints": 60,
+    "old_symbol_streams": 71
+  },
+  "source": "https://www.ti.com/lit/ds/symlink/drv8825.pdf",
+  "updated_files": [
+    "D:\\Codex\\Documents\\2026-10-14\\lib-altium\\work\\lib_altium\\Dlib\\Dlib.SchLib",
+    "D:\\Codex\\Documents\\2026-10-14\\lib-altium\\work\\lib_altium\\Dlib\\Dlib.PcbLib"
+  ],
+  "sha256": {
+    "Dlib.SchLib": "ea7bc43af7a2f4ebe69c2a048021c4962564d471ac7e4754dd2650d2159a1109",
+    "Dlib.PcbLib": "7fc29b8146bf298876f06e643ef8f93b1c5a8ff95c3782407c83355e4ac9411a"
+  }
+}

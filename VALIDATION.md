@@ -43,3 +43,13 @@ Giữ kèm thư mục 3D của bộ RD. Các liên kết ngoài và model 3D c�
 - See Dlib/KCD1-104B.md for source and limitations.
 
 KCD1-104B symbol appearance revised: contact circles fixed, pin names hidden, labels aligned. Pin anchors/electrical properties and PcbLib unchanged; compiled symbol data matches source; no new compiler diagnostics.
+
+
+## 74HCT245D,652 — 03/11/2026
+
+- Added a distinct Nexperia HCT245 symbol with 20 datasheet-verified pins; existing HC245 unchanged.
+- Reused SOIC-20_L12.8-W7.5-P1.27-LS10.3-TL and its embedded wide SO20 STEP.
+- Checked native pad count, pin mapping, 1.27 mm pitch, row orientation and model dimensions.
+- All prior symbol streams and the complete PCB library are unchanged.
+- Verified exact new symbol and embedded STEP in rebuilt IntLib; compiler diagnostics unchanged (9 errors, 17 warnings).
+- See Dlib/74HCT245D-652.md for sources and model provenance.

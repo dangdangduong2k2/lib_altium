@@ -30,3 +30,14 @@ Giữ kèm thư mục 3D của bộ RD. Các liên kết ngoài và model 3D c�
 - Kept all 63 other Dlib footprints and all 35 existing embedded models unchanged.
 - Rebuilt IntLib with the same existing 9 errors and 17 warnings; no new diagnostics.
 - See Dlib/73725-0110BLF.md for model source, alignment and drawing revision notes.
+
+
+## KCD1-104B / KCD117 rocker — 02/11/2026
+
+- Added a 4-pin DPST symbol and embedded similar-shape STEP model to Dlib.
+- Footprint is a visual reference only, per user request; no OEM interchangeability claim.
+- Verified native symbol/pad counts, model placement and exact STEP bytes in PcbLib and compiled IntLib.
+- Preserved all 64 previous Dlib footprints, existing symbol streams, and 36 embedded models.
+- Existing Jack DC 5.5*2.1 / JACK_DC 5.5 mm already includes Jack DC.STEP; no duplicate created.
+- Compiler diagnostics unchanged: 9 baseline errors and 17 warnings, no new diagnostics.
+- See Dlib/KCD1-104B.md for source and limitations.

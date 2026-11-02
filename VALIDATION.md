@@ -41,3 +41,5 @@ Giữ kèm thư mục 3D của bộ RD. Các liên kết ngoài và model 3D c�
 - Existing Jack DC 5.5*2.1 / JACK_DC 5.5 mm already includes Jack DC.STEP; no duplicate created.
 - Compiler diagnostics unchanged: 9 baseline errors and 17 warnings, no new diagnostics.
 - See Dlib/KCD1-104B.md for source and limitations.
+
+KCD1-104B symbol appearance revised: contact circles fixed, pin names hidden, labels aligned. Pin anchors/electrical properties and PcbLib unchanged; compiled symbol data matches source; no new compiler diagnostics.
